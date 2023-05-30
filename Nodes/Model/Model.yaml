@@ -1,0 +1,15 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=bc3dbd0e329777c7a77b2f2a3a3f863c
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 1
+- Name: Variable2
+  Id: g=03714b8f0734e9c5968a8e55c7f85fce
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 2
+- Name: Object1
+  Type: BaseObjectType
